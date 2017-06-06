@@ -1,19 +1,78 @@
 {
-	"comment": "",
-	"ignore": "test",
-	"package": [
-		{
-			"checksumSHA1": "g/V4qrXjUGG9B+e3hB+4NAYJ5Gs=",
-			"path": "github.com/gorilla/context",
-			"revision": "08b5f424b9271eedf6f9f0ce86cb9396ed337a42",
-			"revisionTime": "2016-08-17T18:46:32Z"
-		},
-		{
-			"checksumSHA1": "6PQFibmHgsXFHoRQPmkw2V+59Lk=",
-			"path": "github.com/gorilla/mux",
-			"revision": "18fca31550181693b3a834a15b74b564b3605876",
-			"revisionTime": "2017-05-30T19:55:47Z"
-		}
-	],
-	"rootPath": "github.com/perriea/Golang-API"
+    "comment": "",
+    "ignore": "test",
+    "package": [{
+            "checksumSHA1": "1bK29RcAjCAMCYS2HS3O18w4m8k=",
+            "path": "github.com/cihub/seelog",
+            "revision": "f561c5e57575bb1e0a2167028b7339b3a8d16fb4",
+            "revisionTime": "2017-01-30T13:45:32Z"
+        },
+        {
+            "checksumSHA1": "iMU6SM/jawaCOJnyvR5/w8C/C1w=",
+            "path": "github.com/cihub/seelog/archive",
+            "revision": "f561c5e57575bb1e0a2167028b7339b3a8d16fb4",
+            "revisionTime": "2017-01-30T13:45:32Z"
+        },
+        {
+            "checksumSHA1": "oSd7EVei192qS3uYyCAMx9zV3Y8=",
+            "path": "github.com/cihub/seelog/archive/gzip",
+            "revision": "f561c5e57575bb1e0a2167028b7339b3a8d16fb4",
+            "revisionTime": "2017-01-30T13:45:32Z"
+        },
+        {
+            "checksumSHA1": "emesF9mCsIQC59VUE2lvjZYpAHU=",
+            "path": "github.com/cihub/seelog/archive/tar",
+            "revision": "f561c5e57575bb1e0a2167028b7339b3a8d16fb4",
+            "revisionTime": "2017-01-30T13:45:32Z"
+        },
+        {
+            "checksumSHA1": "TXLSkZsRlMifg3mg9+6QgEZJ6m4=",
+            "path": "github.com/cihub/seelog/archive/zip",
+            "revision": "f561c5e57575bb1e0a2167028b7339b3a8d16fb4",
+            "revisionTime": "2017-01-30T13:45:32Z"
+        },
+        {
+            "checksumSHA1": "AANTVr9CVVyzsgviODY6Wi2thuM=",
+            "path": "github.com/fatih/color",
+            "revision": "62e9147c64a1ed519147b62a56a14e83e2be02c1",
+            "revisionTime": "2017-05-23T20:24:04Z"
+        },
+        {
+            "checksumSHA1": "g/V4qrXjUGG9B+e3hB+4NAYJ5Gs=",
+            "path": "github.com/gorilla/context",
+            "revision": "08b5f424b9271eedf6f9f0ce86cb9396ed337a42",
+            "revisionTime": "2016-08-17T18:46:32Z"
+        },
+        {
+            "checksumSHA1": "/lWfaq/Ok+El1amGaf3wPY5JpUc=",
+            "path": "github.com/gorilla/handlers",
+            "revision": "a4d79d4487c2430a17d9dc8a1f74d1a6ed6908ca",
+            "revisionTime": "2017-06-02T15:16:48Z"
+        },
+        {
+            "checksumSHA1": "6PQFibmHgsXFHoRQPmkw2V+59Lk=",
+            "path": "github.com/gorilla/mux",
+            "revision": "18fca31550181693b3a834a15b74b564b3605876",
+            "revisionTime": "2017-05-30T19:55:47Z"
+        },
+        {
+            "checksumSHA1": "uAVg4Tj5Fxi62z7/ScDEkHr6Ue8=",
+            "path": "github.com/mattn/go-colorable",
+            "revision": "ded68f7a9561c023e790de24279db7ebf473ea80",
+            "revisionTime": "2017-03-27T08:33:44Z"
+        },
+        {
+            "checksumSHA1": "U6lX43KDDlNOn+Z0Yyww+ZzHfFo=",
+            "path": "github.com/mattn/go-isatty",
+            "revision": "fc9e8d8ef48496124e79ae0df75490096eccf6fe",
+            "revisionTime": "2017-03-22T23:44:13Z"
+        },
+        {
+            "checksumSHA1": "PugQbLLjnbBSj+NOXRYBVRnLuuQ=",
+            "path": "golang.org/x/sys/unix",
+            "revision": "b90f89a1e7a9c1f6b918820b3daa7f08488c8594",
+            "revisionTime": "2017-05-29T13:44:53Z"
+        }
+    ],
+    "rootPath": "github.com/perriea/Golang-API"
 }
